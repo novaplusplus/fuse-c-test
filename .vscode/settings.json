@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "fuse.h": "c",
+        "errno.h": "c",
+        "fcntl.h": "c",
+        "time.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "features.h": "c",
+        "time_t.h": "c",
+        "delay.h": "c",
+        "shm.h": "c",
+        "random": "c",
+        "limits": "c",
+        "ranges": "c",
+        "algorithm": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "ipc.h": "c"
+    }
+}
